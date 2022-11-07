@@ -18,7 +18,7 @@ public class SecondProgram {
 		
 		System.out.println(namD); // 9; (-1 + 10)
 		
-		int namE=++namB + namA++; // (10 PRE_INCREMENT (10+1)=11) + (5 POST-INCREMENT)= 16))
+		int namE=++namB + namA++; // (9PRE_INCREMENT (9+1)=10)+(5 POST-INCREMENT)= 15)
 		
 		//++namB (before the variable is called as PRE-INCREMENT)
 		System.out.println(namB); // (10 PRE-INCREMENT =10 only)
