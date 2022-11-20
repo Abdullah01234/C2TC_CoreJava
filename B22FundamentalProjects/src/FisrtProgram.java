@@ -10,7 +10,13 @@ public class FisrtProgram {
 	
 	 System.out.println(namA); //5 
      System.out.println(namB); //10 
-     System.out.println(namC); //0 
+     System.out.println(namC); //0
+     
+     //Output
+     //5
+     //10
+     //0
+     
 	}
 
 }

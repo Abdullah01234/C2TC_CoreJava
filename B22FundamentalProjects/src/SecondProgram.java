@@ -32,6 +32,14 @@ public class SecondProgram {
 		System.out.println(namA); // (5 POST-INCREMENT 5+1=6)
 		
 		System.out.println(namE); // (10+5 = 15)
+		
+		//Output
+		//-1
+		//9
+		//9
+		//10
+		//6
+		//15
 
 	}
 

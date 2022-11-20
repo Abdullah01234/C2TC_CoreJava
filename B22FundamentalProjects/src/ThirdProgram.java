@@ -19,6 +19,11 @@ public class ThirdProgram {
 	     System.out.println(namA); // (5 POST-INCREMENT 5+1 = 6)
 	     
 	     System.out.println(namE); // (10+6 = 16)
+	     
+	     //Output
+	     //11
+	     //6
+	     //16
 	}
 
 }
