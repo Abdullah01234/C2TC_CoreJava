@@ -22,7 +22,7 @@ public class RelationalLogicalOperator {
 		System.out.println(i>=j); //False (Greater than Equal Operator)
 		System.out.println(i<=j); //True  (Lesser than Equal Operator)
 		System.out.println(i==j); //False  (equal to equal Operator)
-		System.out.println(i!=j); //True    Not equal to Operator)
+		System.out.println(i!=j); //True    (Not equal to Operator)
 		
 		System.out.println((i<10) && (j<10)); //F && F = F 
 		System.out.println((i<10) || (j<10)); //F || F = F
