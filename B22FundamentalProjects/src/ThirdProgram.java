@@ -12,18 +12,19 @@ public class ThirdProgram {
 		//I am doing to do some operation before and after printing this value
 		int namE=++namB + namA++; // (10 PRE_INCREMENT (10 only) + (5 POST-INCREMENT) (5+1) 6) (10 + 6 = 16)
 		
-		//++namB (before the variable is called as PRE-INCREMENT)
+//++namB (before the variable is called as PRE-INCREMENT)
 	     System.out.println(namB); // (10 PRE-INCREMENT 10+1 = 11)
 	     
-	   //namA++ (after the variable is called as POST-INCREMENT)
+//namA++ (after the variable is called as POST-INCREMENT)
 	     System.out.println(namA); // (5 POST-INCREMENT 5+1 = 6)
 	     
 	     System.out.println(namE); // (10+6 = 16)
 	     
-	     //Output
-	     //11
-	     //6
-	     //16
+//Output
+//11
+//6
+//16
+	     
 	}
 
 }
